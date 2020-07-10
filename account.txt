@@ -1,0 +1,157 @@
+1、日报里写清楚这几点：做了什么、跟谁有关、当前进度、耗时多少；
+2、如果需要其他人或者上级领导协助的，则重点写在日报里；
+3、日报内容顺序规则，重要的事写最上面；
+4、日报的发送人默认为直属领导，另抄送给：沈佳、贺奕凯、高玉海、王磊、陈建一；
+
+VPN：
+username：jiyunxia 
+password：ZRdjawLlCJP2ajWs
+
+aniu@12
+wifi密码:88883126
+座机分机号：8376
+
+
+邮箱登录地址mail.aniu.tv
+登录名：yxji@aniu.tv
+密码：Jyx860402
+
+禅道账号：
+jiyunxia
+yxji@aniu.tv
+
+
+阿牛智投的后台地址：
+http://192.168.0.172:8081/backend/login   
+账户：admin
+密码：123456
+数据库相关表：aniu_product_tag 标签表、aniu_product_info 产品表、aniu_product_tag_relation 产品标签关联表
+
+阿牛老后台：http://192.168.0.8:8085/aniuadmin/user
+账户：jiyunxia
+密码：yxji@aniu.tv
+这个后台是老项目的，涉及到课程、用户、订单同步、网站部分运营功能，等你CRM交接好后再看这个后台
+
+
+crm后台地址：http://sso.dzcj.tv:8080/aniu-cas-admin/login?service=http%3A%2F%2F172.16.3.24%3A8080%2Faniu-crm-admin%2Flogin%2Fcas
+账户：jiyunxia
+密码：jiyunxia123
+xuzhenzhen xuzhenzhen123
+zhuwenbin  zhuwenbin
+
+CRM 朱文斌机器本地：http://10.1.1.166:8089/aniu-crm-admin/SalesmanResource
+jiyunxia  zhuwenbin
+
+电话记录查询
+http://175.102.17.60:18080/vmw/login
+wujun/wujun888888
+
+
+订单后台：http://192.168.0.25:8080/aniu-service-product/Order
+账户：jiyunxia
+密码：jiyunxia123
+这是订单和营销充值系统，所有订单的都在这个后台可以查询
+
+
+测试库地址：
+192.168.200.160
+192.168.200.161
+192.168.200.162
+用户名：test
+密码：YSpqvXu1YFq9yu6z
+
+CRM测试库
+url:192.168.200.162
+uname:developer
+pwd:0pn86Ni5MKrszGJ7
+
+
+老内幕：http://neimu.dzcj.tv/index.php/Index/index.html
+新内幕：http://nm1.dzcj.tv:2120/login/index.shtml
+最新内幕：http://nm1.dzcj.tv/index/kefu.shtml
+
+砖家周周见  lhh588588
+
+测试账号：
+13564613019
+19946012315
+19946011550
+18930466265
+#15618602139
+#18217397709
+
+YApi接口管理工具
+http://192.168.200.181:3000/
+账户：yxji@aniu.tv
+密码：123456
+
+newcall	新版2.0电话呼叫接口	
+http://192.168.10.102:18080/vmw/api/2.0
+其他接口
+{"command":"originate",
+"tenantId":"0",
+"absoluteTimeout":"",
+"saleDstAccessNumber":"9601",
+"saleDstGateway":"vos",
+"saleDstPrefix":"200209",
+"serviceDstAccessNumber":"KF62571603",
+"serviceDstGateway":"KF62571603",
+"mobileDstAccessNumber":"9602",
+"mobileDstGateway":"vos"}
+xuzhenzhen
+xuzhenzhen123
+
+TYooldhwA9>a
+update user set host='%' where user='root'
+
+吴骏账号：
+15800864394  swtntfzqb081y2nraxvlz2nzykviut09
+aniu15800864394
+
+自己账号：
+13816033048  ab1646e681c34270a5f729bb3ae80f4e
+a8914195
+
+实战课账号，课程id33024：
+15651861955
+aniu15651861955
+
+
+发布说说是测试服务器tysx_s这个库里
+
+说说表`aniu_transcript`   isblog字段1是说说，2是投票，3是话题
+SELECT * FROM aniu_transcript ORDER BY insert_date desc
+
+说说快评关系表`aniu_script`
+SELECT * FROM aniu_transcript ORDER BY insert_date desc
+
+话题快评正式库关系表：
+SELECT * FROM aniu_transcript WHERE ts_id = 689676
+
+发布说说的3种情况：
+http://ucenter.aniu.tv/index/issue.shtml
+
+http://ucenter.aniu.tv/index/videodotting.shtml
+
+http://ucenter.aniu.tv/index/vote.shtml
+
+http://10.1.1.53:8083/aniu-api-product/Rest/api/order/queryOrderStatus?orderid=957716&token=5a2f4b81dfd74149a0596c4bbfafec94
+
+测试手机号：
+17130322482
+http://www.aniu.com/xgpt_stockpool
+
+
+Uncaught Exception java.lang.OutOfMemoryError:GC overhead limit exceeded.See long file for details
+
+本地强行登录：http://test.aniu.tv/testanooktwg/thjsqj?u=553770
+host地址：10.1.1.88 test.aniu.tv
+便于排查用户的问题
+
+	
+SALESMAN_GET_RESOURCE_TEAM_RULE_NEW //增加团队的资源配置规则
+
+
+SALESMAN_RESOURCE_TYPE //页面上获取资源的按钮显示，
+
+
